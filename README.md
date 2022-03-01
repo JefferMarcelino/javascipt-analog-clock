@@ -5,7 +5,7 @@
 ## Preview:
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="Js-clock" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
